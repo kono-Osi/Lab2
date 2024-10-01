@@ -1,0 +1,13 @@
+E:\Users\Sidor\source\repos\FabrMethod\bin\Debug\FabrMethod.exe.config
+E:\Users\Sidor\source\repos\FabrMethod\bin\Debug\FabrMethod.exe
+E:\Users\Sidor\source\repos\FabrMethod\bin\Debug\FabrMethod.pdb
+E:\Users\Sidor\source\repos\FabrMethod\bin\Debug\FabrMethLib.dll
+E:\Users\Sidor\source\repos\FabrMethod\bin\Debug\FabrMethLib.pdb
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.csproj.AssemblyReference.cache
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.Form1.resources
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.Properties.Resources.resources
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.csproj.GenerateResource.cache
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.csproj.CoreCompileInputs.cache
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.csproj.CopyComplete
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.exe
+E:\Users\Sidor\source\repos\FabrMethod\obj\Debug\FabrMethod.pdb

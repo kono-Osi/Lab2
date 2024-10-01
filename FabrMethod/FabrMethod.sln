@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabrMethod", "FabrMethod.csproj", "{EE0AFA19-4467-4E3C-A3FB-B6332E429680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabrMethLib", "..\FabrMethLib\FabrMethLib.csproj", "{102BE88E-200C-48BE-9708-432A6C513C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0AFA19-4467-4E3C-A3FB-B6332E429680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0AFA19-4467-4E3C-A3FB-B6332E429680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0AFA19-4467-4E3C-A3FB-B6332E429680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0AFA19-4467-4E3C-A3FB-B6332E429680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102BE88E-200C-48BE-9708-432A6C513C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102BE88E-200C-48BE-9708-432A6C513C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102BE88E-200C-48BE-9708-432A6C513C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102BE88E-200C-48BE-9708-432A6C513C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956B3A21-8D09-4D1B-8B73-4B43E546CC9B}
+	EndGlobalSection
+EndGlobal
